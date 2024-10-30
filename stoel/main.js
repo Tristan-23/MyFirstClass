@@ -1,4 +1,4 @@
-const Stoel = require("./stoel.js");
+const Stoel = require("./class.js");
 
 const stoel = new Stoel("rood", 60);
 
